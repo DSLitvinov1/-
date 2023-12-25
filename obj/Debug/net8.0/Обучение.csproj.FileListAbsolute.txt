@@ -1,0 +1,14 @@
+C:\Users\Дима\Desktop\Обучение\bin\Debug\net8.0\Обучение.exe
+C:\Users\Дима\Desktop\Обучение\bin\Debug\net8.0\Обучение.deps.json
+C:\Users\Дима\Desktop\Обучение\bin\Debug\net8.0\Обучение.runtimeconfig.json
+C:\Users\Дима\Desktop\Обучение\bin\Debug\net8.0\Обучение.dll
+C:\Users\Дима\Desktop\Обучение\bin\Debug\net8.0\Обучение.pdb
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\Обучение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\Обучение.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\Обучение.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\Обучение.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\Обучение.dll
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\refint\Обучение.dll
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\Обучение.pdb
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\Обучение.genruntimeconfig.cache
+C:\Users\Дима\Desktop\Обучение\obj\Debug\net8.0\ref\Обучение.dll

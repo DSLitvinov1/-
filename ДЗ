@@ -1,0 +1,25 @@
+using System;
+
+class Program {
+    static void Main() {
+        
+        int M = 5;
+        int N = 10;
+
+        
+        PrintNaturalNumbers(M, N);
+    }
+
+    static void PrintNaturalNumbers(int current, int end) {
+        
+        if (current > end) {
+            return;
+        }
+
+        
+        Console.WriteLine(current);
+
+        
+        PrintNaturalNumbers(current + 1, end);
+    }
+}
